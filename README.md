@@ -1,4 +1,4 @@
-# flask_zappa
+# Flask Zappa
 Building serverless micro-services with Zappa and Flask
 
 # Prerequists
