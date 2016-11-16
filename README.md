@@ -1,7 +1,11 @@
 # flask_zappa
 Building serverless micro-services with Zappa and Flask
 
-# Prerequists
+# AWS CLI Setup
+```
+$ pip install awscli
+```
+
 ```
 $ [sudo] pip install virtualenv
 $ virtualenv env
